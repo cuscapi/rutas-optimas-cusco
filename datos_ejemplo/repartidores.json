@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "repartidores": [
+    {
+      "nombre": "Repartidor A",
+      "x": -3.0272212507580245,
+      "y": -3.6694376477079107,
+      "capacidad": 30,
+      "color": "#d62728",
+      "nodo": "San Francisco",
+      "capacidad_volumen_m3": 3.0,
+      "velocidad_kmh": 25.0,
+      "lat": -13.5203,
+      "lon": -71.9813
+    },
+    {
+      "nombre": "Repartidor B",
+      "x": 9.081663752243346,
+      "y": 0.8895606418681653,
+      "capacidad": 30,
+      "color": "#1f77b4",
+      "nodo": "Zaguán del Cielo",
+      "capacidad_volumen_m3": 3.0,
+      "velocidad_kmh": 25.0,
+      "lat": -13.5162,
+      "lon": -71.9701
+    },
+    {
+      "nombre": "Repartidor C",
+      "x": 28.650486837451194,
+      "y": -17.791212837365283,
+      "capacidad": 30,
+      "color": "#9467bd",
+      "nodo": "Wanchaq",
+      "capacidad_volumen_m3": 3.0,
+      "velocidad_kmh": 25.0,
+      "lat": -13.533,
+      "lon": -71.952
+    }
+  ]
+}

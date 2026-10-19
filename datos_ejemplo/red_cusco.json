@@ -1,0 +1,382 @@
+{
+  "version": 2,
+  "unidad_mapa_m": 100.0,
+  "sistema": "WGS84 (lat, lon); x, y = plano local en unidades de 100 m",
+  "nodos": [
+    {
+      "nombre": "San Blas",
+      "lat": -13.5148,
+      "lon": -71.9747,
+      "x": 4.10837169744415,
+      "y": 2.4462917651379485
+    },
+    {
+      "nombre": "San Cristóbal",
+      "lat": -13.5143,
+      "lon": -71.9812,
+      "x": -2.919106206084803,
+      "y": 3.0022671663043172
+    },
+    {
+      "nombre": "Plaza de Armas",
+      "lat": -13.517,
+      "lon": -71.9785,
+      "x": 0.0,
+      "y": 0.0
+    },
+    {
+      "nombre": "Santa Ana",
+      "lat": -13.5125,
+      "lon": -71.9708,
+      "x": 8.324858439561522,
+      "y": 5.003778610509171
+    },
+    {
+      "nombre": "Zaguán del Cielo",
+      "lat": -13.5162,
+      "lon": -71.9701,
+      "x": 9.081663752243346,
+      "y": 0.8895606418681653
+    },
+    {
+      "nombre": "Estadio Universitario",
+      "lat": -13.5237,
+      "lon": -71.9573,
+      "x": 22.920389469954806,
+      "y": -7.450070375647119
+    },
+    {
+      "nombre": "Av. de la Cultura",
+      "lat": -13.5262,
+      "lon": -71.9545,
+      "x": 25.94761072071283,
+      "y": -10.22994738148489
+    },
+    {
+      "nombre": "Wanchaq",
+      "lat": -13.533,
+      "lon": -71.952,
+      "x": 28.650486837451194,
+      "y": -17.791212837365283
+    },
+    {
+      "nombre": "Mercado Huanchaq",
+      "lat": -13.53,
+      "lon": -71.965,
+      "x": 14.595531030393287,
+      "y": -14.45536043035917
+    },
+    {
+      "nombre": "Av. El Sol",
+      "lat": -13.5186,
+      "lon": -71.9769,
+      "x": 1.7298407147100918,
+      "y": -1.7791212837363306
+    },
+    {
+      "nombre": "Coricancha",
+      "lat": -13.5195,
+      "lon": -71.9753,
+      "x": 3.4596814294201836,
+      "y": -2.779877005839745
+    },
+    {
+      "nombre": "Mercado Central",
+      "lat": -13.5211,
+      "lon": -71.9824,
+      "x": -4.216486742117372,
+      "y": -4.558998289576076
+    },
+    {
+      "nombre": "San Francisco",
+      "lat": -13.5203,
+      "lon": -71.9813,
+      "x": -3.0272212507580245,
+      "y": -3.6694376477079107
+    },
+    {
+      "nombre": "San Pedro",
+      "lat": -13.5231,
+      "lon": -71.9818,
+      "x": -3.5677964741087695,
+      "y": -6.782899894245502
+    },
+    {
+      "nombre": "Av. Pardo",
+      "lat": -13.5265,
+      "lon": -71.972,
+      "x": 7.027477903528953,
+      "y": -10.563532622186685
+    },
+    {
+      "nombre": "San Sebastián",
+      "lat": -13.5325,
+      "lon": -71.925,
+      "x": 57.84154889825313,
+      "y": -17.235237436198915
+    }
+  ],
+  "calles": [
+    {
+      "origen": "San Blas",
+      "destino": "San Cristóbal",
+      "distancia_m": 951.6836422270104,
+      "tiempo_s": 285.50509266810315,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "empinada"
+    },
+    {
+      "origen": "San Blas",
+      "destino": "Santa Ana",
+      "distancia_m": 665.7567003508009,
+      "tiempo_s": 199.72701010524028,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "empinada"
+    },
+    {
+      "origen": "San Blas",
+      "destino": "Plaza de Armas",
+      "distancia_m": 645.5092046984946,
+      "tiempo_s": 193.6527614095484,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "empinada"
+    },
+    {
+      "origen": "San Blas",
+      "destino": "Zaguán del Cielo",
+      "distancia_m": 703.5217342063811,
+      "tiempo_s": 211.05652026191436,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "empinada"
+    },
+    {
+      "origen": "San Cristóbal",
+      "destino": "Plaza de Armas",
+      "distancia_m": 565.3081389402457,
+      "tiempo_s": 169.59244168207374,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "empinada"
+    },
+    {
+      "origen": "San Cristóbal",
+      "destino": "San Francisco",
+      "distancia_m": 900.7984021957511,
+      "tiempo_s": 270.2395206587254,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "empinada"
+    },
+    {
+      "origen": "Plaza de Armas",
+      "destino": "San Francisco",
+      "distancia_m": 570.8357778991873,
+      "tiempo_s": 93.40949092895792,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Plaza de Armas",
+      "destino": "Av. El Sol",
+      "distancia_m": 272.9596606811859,
+      "tiempo_s": 28.075850812921978,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Plaza de Armas",
+      "destino": "Estadio Universitario",
+      "distancia_m": 2892.0573392301167,
+      "tiempo_s": 473.2457464194737,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Santa Ana",
+      "destino": "Zaguán del Cielo",
+      "distancia_m": 564.7383618890372,
+      "tiempo_s": 169.42150856671117,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "empinada"
+    },
+    {
+      "origen": "Zaguán del Cielo",
+      "destino": "Av. de la Cultura",
+      "distancia_m": 2424.159197047335,
+      "tiempo_s": 396.68059588047305,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Zaguán del Cielo",
+      "destino": "Estadio Universitario",
+      "distancia_m": 1938.8637089108704,
+      "tiempo_s": 317.2686069126879,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Estadio Universitario",
+      "destino": "Av. de la Cultura",
+      "distancia_m": 452.08759684908784,
+      "tiempo_s": 46.50043853304904,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Estadio Universitario",
+      "destino": "Coricancha",
+      "distancia_m": 2401.5452296245544,
+      "tiempo_s": 392.980128484018,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Av. El Sol",
+      "destino": "Coricancha",
+      "distancia_m": 219.8296935469298,
+      "tiempo_s": 22.611054193398495,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Av. El Sol",
+      "destino": "San Francisco",
+      "distancia_m": 614.2601702943242,
+      "tiempo_s": 100.5153005936167,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Av. El Sol",
+      "destino": "Mercado Central",
+      "distancia_m": 722.0365200878528,
+      "tiempo_s": 74.26661349475057,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Mercado Central",
+      "destino": "San Francisco",
+      "distancia_m": 178.21622659253288,
+      "tiempo_s": 29.162655260596292,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Mercado Central",
+      "destino": "San Pedro",
+      "distancia_m": 277.988991424915,
+      "tiempo_s": 45.48910768771337,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "San Pedro",
+      "destino": "Av. El Sol",
+      "distancia_m": 874.4522218250537,
+      "tiempo_s": 143.0921817531906,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Coricancha",
+      "destino": "Mercado Huanchaq",
+      "distancia_m": 1936.1173238482643,
+      "tiempo_s": 316.8191984478978,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Coricancha",
+      "destino": "Av. Pardo",
+      "distancia_m": 941.8584221292867,
+      "tiempo_s": 96.87686627615521,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Mercado Huanchaq",
+      "destino": "Av. de la Cultura",
+      "distancia_m": 1332.3712061962995,
+      "tiempo_s": 137.04389549447652,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Mercado Huanchaq",
+      "destino": "Wanchaq",
+      "distancia_m": 1733.3485823167118,
+      "tiempo_s": 283.63885892455284,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "calle"
+    },
+    {
+      "origen": "Mercado Huanchaq",
+      "destino": "Av. Pardo",
+      "distancia_m": 936.0757169734547,
+      "tiempo_s": 96.28207374584106,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Av. de la Cultura",
+      "destino": "Wanchaq",
+      "distancia_m": 883.2767246093314,
+      "tiempo_s": 90.85132024553124,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Av. Pardo",
+      "destino": "Wanchaq",
+      "distancia_m": 2507.7680022992763,
+      "tiempo_s": 257.94185166506844,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Wanchaq",
+      "destino": "San Sebastián",
+      "distancia_m": 3211.386904514366,
+      "tiempo_s": 330.31408160719195,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    },
+    {
+      "origen": "Av. Pardo",
+      "destino": "San Sebastián",
+      "distancia_m": 5637.229547703453,
+      "tiempo_s": 579.829324906641,
+      "estado": "ABIERTO",
+      "factor_trafico": 1.0,
+      "tipo": "avenida"
+    }
+  ]
+}

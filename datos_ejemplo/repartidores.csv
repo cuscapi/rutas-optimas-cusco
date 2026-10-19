@@ -1,0 +1,4 @@
+﻿nombre,x,y,lat,lon,capacidad,color,nodo,capacidad_volumen_m3,velocidad_kmh
+Repartidor A,-3.0272212507580245,-3.6694376477079107,-13.5203,-71.9813,30,#d62728,San Francisco,3.0,25.0
+Repartidor B,9.081663752243346,0.8895606418681653,-13.5162,-71.9701,30,#1f77b4,Zaguán del Cielo,3.0,25.0
+Repartidor C,28.650486837451194,-17.791212837365283,-13.533,-71.952,30,#9467bd,Wanchaq,3.0,25.0

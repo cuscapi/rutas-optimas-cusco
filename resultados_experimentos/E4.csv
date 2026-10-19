@@ -1,0 +1,31 @@
+﻿semilla,bloqueadas,valor_voraz,valor_integrado,atendidos_voraz,atendidos_integrado,km_voraz,km_integrado,km_por_pedido_voraz,km_por_pedido_integrado,t_voraz_ms,t_integrado_ms
+1,Av. El Sol-Coricancha; Wanchaq-San Sebastián,1065,1137,16,18,34.462861,28.755293,2.153929,1.597516,0.175759,1.401623
+2,San Cristóbal-San Francisco; San Blas-Zaguán del Cielo,1081,1151,16,20,24.762129,22.074981,1.547633,1.103749,0.172728,3.417763
+3,Estadio Universitario-Av. de la Cultura; Mercado Huanchaq-Av. Pardo,1034,1089,15,19,33.577945,24.2597,2.23853,1.276826,0.165445,3.003802
+4,San Blas-Plaza de Armas; Plaza de Armas-San Francisco,1037,1109,17,19,24.651692,23.451354,1.4501,1.234282,0.173475,3.009817
+5,Plaza de Armas-San Francisco; Plaza de Armas-Estadio Universitario,1059,1245,18,23,30.556055,31.709677,1.697559,1.378682,0.184602,5.213114
+6,Av. Pardo-San Sebastián; San Blas-Plaza de Armas,927,1025,14,16,21.710352,21.222397,1.550739,1.3264,0.161585,1.035034
+7,San Pedro-Av. El Sol; Wanchaq-San Sebastián,1143,1371,18,23,26.440471,18.066115,1.468915,0.785483,0.186685,6.823135
+8,Santa Ana-Zaguán del Cielo; Mercado Central-San Pedro,1050,1062,16,17,25.624085,24.434558,1.601505,1.437327,0.154827,1.648789
+9,San Blas-Plaza de Armas; San Blas-Zaguán del Cielo,1165,1224,19,22,31.088346,28.850912,1.636229,1.311405,0.203239,4.353222
+10,Wanchaq-San Sebastián; San Pedro-Av. El Sol,1072,1121,17,18,32.552765,23.929901,1.914869,1.329439,0.199853,1.854263
+11,Av. El Sol-Mercado Central; Av. Pardo-Wanchaq,932,1050,17,20,30.089958,23.284097,1.769998,1.164205,0.195166,6.685959
+12,Estadio Universitario-Av. de la Cultura; Plaza de Armas-San Francisco,1062,1238,16,21,24.43277,23.479499,1.527048,1.118071,0.204438,7.36628
+13,Mercado Huanchaq-Av. Pardo; Mercado Central-San Francisco,1168,1270,17,21,30.565948,25.334142,1.797997,1.206388,0.179161,3.575388
+14,San Cristóbal-Plaza de Armas; Coricancha-Av. Pardo,1051,1103,17,18,25.005011,25.707684,1.470883,1.428205,0.189,1.689154
+15,Plaza de Armas-Estadio Universitario; Plaza de Armas-Av. El Sol,1085,1232,15,19,30.805884,20.725611,2.053726,1.090822,0.140143,1.59114
+16,Av. Pardo-Wanchaq; Mercado Huanchaq-Wanchaq,740,889,13,17,20.529815,22.397702,1.579217,1.317512,0.133056,1.118362
+17,San Blas-Santa Ana; Plaza de Armas-Estadio Universitario,1170,1373,18,22,26.599764,26.192404,1.477765,1.190564,0.167374,4.601797
+18,Av. El Sol-Mercado Central; Estadio Universitario-Coricancha,1226,1337,19,22,28.164276,24.163318,1.48233,1.098333,0.192624,3.995769
+19,San Blas-Plaza de Armas; San Cristóbal-San Francisco,993,1093,16,19,28.705723,27.309311,1.794108,1.437332,0.161918,1.827941
+20,Av. El Sol-Coricancha; San Blas-Santa Ana,892,987,16,22,31.768773,28.157038,1.985548,1.279865,0.155318,4.315404
+21,Mercado Huanchaq-Av. de la Cultura; Estadio Universitario-Coricancha,1038,1201,16,20,25.778377,22.623814,1.611149,1.131191,0.169538,2.201713
+22,Coricancha-Av. Pardo; Plaza de Armas-Av. El Sol,1451,1449,22,24,38.919361,23.351686,1.769062,0.972987,0.194426,6.227561
+23,San Blas-San Cristóbal; San Blas-Santa Ana,861,864,15,16,28.432122,18.219247,1.895475,1.138703,0.159875,1.10236
+24,Zaguán del Cielo-Estadio Universitario; Plaza de Armas-San Francisco,956,1014,17,19,35.992619,25.608877,2.117213,1.347836,0.170342,1.853189
+25,Av. Pardo-San Sebastián; Wanchaq-San Sebastián,917,1039,14,18,13.67713,19.014379,0.976938,1.056354,0.154154,1.644659
+26,Zaguán del Cielo-Av. de la Cultura; Coricancha-Av. Pardo,1100,1165,17,18,22.633502,27.760941,1.331382,1.542275,0.176324,1.623128
+27,Mercado Central-San Francisco; Av. El Sol-Coricancha,801,918,15,19,32.049328,22.7592,2.136622,1.197853,0.151894,2.144504
+28,San Blas-Santa Ana; Av. Pardo-San Sebastián,978,1210,15,20,19.02795,33.406408,1.26853,1.67032,0.162847,5.68616
+29,Av. El Sol-Mercado Central; Coricancha-Av. Pardo,1082,1164,17,20,34.428559,22.41415,2.025209,1.120708,0.09647,1.717433
+30,Av. El Sol-Mercado Central; Mercado Huanchaq-Wanchaq,1045,1217,17,20,31.771885,25.294811,1.868934,1.264741,0.09434,1.421016

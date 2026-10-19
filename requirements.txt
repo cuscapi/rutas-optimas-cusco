@@ -1,0 +1,5 @@
+customtkinter>=5.2
+tkintermapview>=1.29
+matplotlib>=3.7
+pillow>=10.1
+networkx>=3.0
